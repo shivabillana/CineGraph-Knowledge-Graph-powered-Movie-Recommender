@@ -155,6 +155,7 @@ All recommendation endpoints accept an optional `limit` parameter (default: 10).
 
 ## 👤 Author
 
-Shiva Kumar Billana
-Nithin Chandra
+1. Shiva Kumar Billana
+
+2. Nithin Chandra
 
