@@ -139,13 +139,7 @@ All recommendation endpoints accept an optional `limit` parameter (default: 10).
 | Frontend | Streamlit |
 | Graph Queries | Cypher |
 | ORM/Validation | Pydantic |
-| Dataset | TMDB 5000 Movies |
 
----
-
-## 📊 Dataset
-
-This project uses the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) from Kaggle.
 
 ---
 
@@ -161,6 +155,6 @@ This project uses the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/
 
 ## 👤 Author
 
-**Shiva Kumar Billana**  
-B.Tech CS (AI/ML) — GITAM University Hyderabad  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+Shiva Kumar Billana
+Nithin Chandra
+
